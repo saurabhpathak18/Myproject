@@ -1,0 +1,19 @@
+p
+{
+    font-family: cursive;
+    font-size: 20px;
+    /*color:#7afc00;*/
+    color: rgba(211, 30, 30, 0.883);
+    text-align:justify;
+    text-transform: capitalize;
+    line-height: 40px;
+    word-spacing: 20px;
+    font-style: italic;
+    font-weight:400;
+}
+h1
+{
+    text-decoration:underline dashed;
+    text-indent: 0pc;
+    letter-spacing: 10px;
+}
