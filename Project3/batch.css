@@ -1,0 +1,36 @@
+#T1
+{
+    border:solid;
+    border-color: rgba(0, 51, 255, 0.367);    
+} 
+
+
+.Test
+{
+    text-align: center;
+    color: rgb(126, 203, 11);
+    
+}
+#Body
+{
+    background-color: black;
+}
+
+.Test1
+{
+    text-align: left;
+    color: white;
+}
+.course
+{
+    color: white;
+}
+p
+{
+    color: white;
+    text-indent: 0cqmax;
+}
+#syllabus
+{
+    color: red;
+}
