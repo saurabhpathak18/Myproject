@@ -1,0 +1,39 @@
+.container
+{
+    display: flex;
+    background-color: khaki;
+    /* flex-direction: row;
+       flex-wrap: wrap;  */
+    flex-flow:row wrap; /* This is short hand property means above two property we have written in a single line */
+    justify-content: space-around; 
+    /* The justify content basically align the content in three ways right,center and left these are standard property . 
+    there is one more property of justify-content is  space areound it basically give equal space to the element present in the web browser
+    one more property is "space-between in which no space left between first and last box they are left align and right align*/
+    height: 300px;
+    align-content: space-around;
+
+
+
+}
+.container div
+
+{
+    background-color: gray;
+    margin: 10px;
+    text-align: center;
+    font-size: 26px;
+    padding: 20px;
+}
+img
+{
+    max-width: 100%;
+}
+h1
+{
+    font-size: 10vw; /* This viewport (vw) unit helps in increasing and decreasing the size of heading or paragraph according screen size of viewport size  */
+
+}
+p
+{
+    font-size: 5vw; /* vw= viewport width */
+}
