@@ -1,0 +1,77 @@
+.supercontainer
+{
+    display: flex;
+    background-color: gray;
+    height: 2000px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container1
+{
+    display: flex;
+    height: 500px;
+    background-color: antiquewhite;
+    margin: 10px;
+    padding: 20px;
+
+}
+.container2
+{
+    display: flex;
+    height: 500px;
+    background-color: khaki;
+    margin: 10px;
+    padding: 20px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  
+}
+.container2>div
+{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 20px;
+    width: 45%;
+}
+
+.container3
+{
+    display: flex;
+    height: 500px;
+    background-color: lightgray;
+    margin: 10px;
+    padding: 20px;
+
+    
+}
+.container4
+{ 
+    display: flex;
+    height: 200px;
+    background-color: #1e293b;
+    margin: 10px;
+    padding: 20px;
+    flex-wrap: wrap ;
+    justify-content: center;
+
+}
+
+#d1
+{
+    background-color:white;
+    width:80% ;
+    height: 450px;
+    padding: 30px;
+    margin-right: 15px;
+    
+}
+
+#d2
+{   
+   display: flex;
+   flex-wrap: wrap;
+   width: 20%;
+   height: 400px;
+
+}
