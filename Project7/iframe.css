@@ -1,0 +1,30 @@
+body
+{
+    margin: 0px;
+    background-color: white;
+    height: 1200px;
+
+}
+.header
+{   
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    width: 50% auto;
+    height: 1000px;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    background-color: lightgray;
+    
+
+}
+.nav
+{   
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 0px;
+    width: 50% auto;
+    height: 200px;
+    flex-wrap: wrap;
+    
+}
