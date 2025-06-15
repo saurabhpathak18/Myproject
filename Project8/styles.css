@@ -1,0 +1,61 @@
+body
+{   
+
+    
+    font-family: monospace;
+    margin: auto 20px;
+    background-color:#212121;
+    color: #212121;
+   
+    text-align: center ;
+    box-shadow: 0px 0px 5px white;
+    text-shadow: 0 0 30px orange;
+    
+
+   
+}
+
+.name
+{
+    color: #f00;
+}
+
+#l1
+{   
+   margin-left: 20px;
+   margin-right: 90px;  
+}
+.date-of-birth
+{
+
+    font-size:1.2vw;
+    color: gray;
+}
+.days
+{
+   background-color: #FFFFFF;
+   padding: 0px 40px 0px 15px;
+   margin-top: 10px;
+}
+.gender
+{
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin-top: 10px;
+}
+.span
+{
+    background-color: #FFFFFF;
+    padding: 0px 40px 0px 15px;
+    margin-top: 10px;
+}
+
+.button:hover
+{
+    background-color: #ff6e42;
+    color: #FFFFFF;
+    border: 2px solid  #ff6e42;
+    border-radius: 10px;
+    margin: 0px 20px 0px 15px;
+   
+}
